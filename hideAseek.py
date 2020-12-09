@@ -1,7 +1,6 @@
 import os
 import random
 import keyboard
-import time
 ai_con=0
 # making map
 map_range=10
@@ -169,6 +168,5 @@ for loop in range(100000):
         Player_control()
         print_map()
         control_info()
-        # time.sleep(3)
 
 print("good job")
