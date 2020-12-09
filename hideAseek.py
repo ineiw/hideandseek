@@ -171,5 +171,4 @@ for loop in range(100000):
         control_info()
         # time.sleep(3)
 
-print("good job")#this is just finish
-print("oh my gossh")
+print("good job")
