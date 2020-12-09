@@ -159,7 +159,7 @@ def control_info():# print control info
     print('\t'+c7+c8+c9)
 # loop
 print("PRESS Enter")
-for loop in range(1000000000000000000000000):
+for loop in range(100000):
 
     if keyboard.is_pressed('Enter') or keyboard.is_pressed('8') or keyboard.is_pressed('2')or keyboard.is_pressed('4')or keyboard.is_pressed('6')or keyboard.is_pressed('7')or keyboard.is_pressed('9')or keyboard.is_pressed('1')or keyboard.is_pressed('3'):
         map_info()
